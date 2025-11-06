@@ -1,2 +1,2 @@
-# Digital-Humanities-1
-First digital humanities code 
+# Alison O'Riordan
+My Digital Humanities Portfolio
